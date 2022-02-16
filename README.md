@@ -1,2 +1,1 @@
-alteracao no meu sistema.
-luziete
+meu primeiro sistema no Git (alterado e atualizado!)
